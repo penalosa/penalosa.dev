@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: "Equity Text B";
+  font-size: 20px;
+  line-height: 1.45;
+  color: #333;
+  background-image: url("/CrystalGradient.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white;
+  background-attachment: fixed;
+}
+html {
+  background: #222;
+}
